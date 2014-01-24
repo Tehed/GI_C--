@@ -1,0 +1,4 @@
+﻿  Exercises.cpp
+e:\mydev\workspaces\gameinstitute\modul1_lesson4\modul1_lesson4\exercises.cpp(36): warning C4018: '<' : signed/unsigned mismatch
+e:\mydev\workspaces\gameinstitute\modul1_lesson4\modul1_lesson4\exercises.cpp(85): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  Modul1_Lesson4.vcxproj -> E:\MyDev\workspaces\GameInstitute\Modul1_Lesson4\Debug\Modul1_Lesson4.exe

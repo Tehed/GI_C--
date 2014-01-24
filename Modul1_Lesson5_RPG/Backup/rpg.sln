@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rpg", "rpg.vcproj", "{94C3F3AF-B071-4E9F-A46E-15312D79BBE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{94C3F3AF-B071-4E9F-A46E-15312D79BBE9}.Debug.ActiveCfg = Debug|Win32
+		{94C3F3AF-B071-4E9F-A46E-15312D79BBE9}.Debug.Build.0 = Debug|Win32
+		{94C3F3AF-B071-4E9F-A46E-15312D79BBE9}.Release.ActiveCfg = Release|Win32
+		{94C3F3AF-B071-4E9F-A46E-15312D79BBE9}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
