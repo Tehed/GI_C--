@@ -65,7 +65,15 @@
     <ClCompile Include="classes.cpp" />
     <ClCompile Include="Die\client.cpp" />
     <ClCompile Include="Die\die.cpp" />
+    <ClCompile Include="RPG\monster.cpp" />
+    <ClCompile Include="RPG\random.cpp" />
     <ClCompile Include="structures.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="RPG\monster.h" />
+    <ClInclude Include="RPG\random.h" />
+    <ClInclude Include="RPG\range.h" />
+    <ClInclude Include="RPG\weapon.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

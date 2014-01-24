@@ -1,0 +1,11 @@
+#ifndef RANDOM_H
+#define RANDOM_H
+
+#include "range.h"
+
+int Random(Range r);
+
+int Random(int a, int b);
+
+
+#endif
