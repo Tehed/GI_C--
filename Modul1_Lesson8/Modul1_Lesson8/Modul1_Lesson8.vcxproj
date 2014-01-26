@@ -62,8 +62,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\CubeExample\main.cpp" />
     <ClCompile Include="biniostuff.cpp" />
     <ClCompile Include="iostuff.cpp" />
+    <ClCompile Include="linecount.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\CubeExample\point3.h">
+      <FileType>CppCode</FileType>
+    </ClInclude>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,0 +1,15 @@
+Name= Gandalf
+HP= 25
+MP= 100
+Armor= 10
+
+Name= Loki
+HP= 50
+MP= 150
+Armor= 12
+
+Name= Magius
+HP= 10
+MP= 75
+Armor= 6
+
