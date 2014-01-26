@@ -1,7 +1,7 @@
 #ifndef MONSTER_H
 #define MONSTER_H
 
-#include "Weapon.h"
+#include "weapon.h"
 #include <string> 
 
 class Player;
@@ -34,6 +34,6 @@ private:
     int mExpReward;
     int mArmor; 
     Weapon mWeapon; 
-}
+};
 
 #endif

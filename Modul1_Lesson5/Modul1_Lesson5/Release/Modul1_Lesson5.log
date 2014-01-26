@@ -1,0 +1,15 @@
+﻿  classes.cpp
+  client.cpp
+  die.cpp
+  game.cpp
+e:\mydev\workspaces\gameinstitute\c++\modul1_lesson5\modul1_lesson5\rpg\map.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+RPG\game.cpp(52): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  map.cpp
+e:\mydev\workspaces\gameinstitute\c++\modul1_lesson5\modul1_lesson5\rpg\map.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  monster.cpp
+  player.cpp
+  random.cpp
+  structures.cpp
+  Generating code
+  Finished generating code
+  Modul1_Lesson5.vcxproj -> E:\MyDev\workspaces\GameInstitute\C++\Modul1_Lesson5\Release\Modul1_Lesson5.exe

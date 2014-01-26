@@ -65,12 +65,17 @@
     <ClCompile Include="classes.cpp" />
     <ClCompile Include="Die\client.cpp" />
     <ClCompile Include="Die\die.cpp" />
+    <ClCompile Include="RPG\game.cpp" />
+    <ClCompile Include="RPG\map.cpp" />
     <ClCompile Include="RPG\monster.cpp" />
+    <ClCompile Include="RPG\player.cpp" />
     <ClCompile Include="RPG\random.cpp" />
     <ClCompile Include="structures.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="RPG\map.h" />
     <ClInclude Include="RPG\monster.h" />
+    <ClInclude Include="RPG\player.h" />
     <ClInclude Include="RPG\random.h" />
     <ClInclude Include="RPG\range.h" />
     <ClInclude Include="RPG\weapon.h" />

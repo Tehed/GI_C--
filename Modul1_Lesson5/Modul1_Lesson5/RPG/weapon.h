@@ -8,6 +8,6 @@ struct Weapon
 {
     std::string mName;
     Range mDamageRange;
-}
+};
 
 #endif

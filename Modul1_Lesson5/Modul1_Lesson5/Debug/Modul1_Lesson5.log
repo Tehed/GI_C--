@@ -1,19 +1,2 @@
-﻿Build started 24.01.2014 13:37:38.
-     1>Project "C:\workspaces_GI\c++\Modul1_Lesson5\Modul1_Lesson5\Modul1_Lesson5.vcxproj" on node 2 (Build target(s)).
-     1>ClCompile:
-         C:\Install\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Die\client.cpp Die\die.cpp
-         die.cpp
-         Generating Code...
-         Skipping... (no relevant changes detected)
-         client.cpp
-       Link:
-         C:\Install\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\workspaces_GI\c++\Modul1_Lesson5\Debug\Modul1_Lesson5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\workspaces_GI\c++\Modul1_Lesson5\Debug\Modul1_Lesson5.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\workspaces_GI\c++\Modul1_Lesson5\Debug\Modul1_Lesson5.lib" /MACHINE:X86 Debug\classes.obj
-         Debug\client.obj
-         Debug\die.obj
-         Debug\structures.obj
-         Modul1_Lesson5.vcxproj -> C:\workspaces_GI\c++\Modul1_Lesson5\Debug\Modul1_Lesson5.exe
-     1>Done Building Project "C:\workspaces_GI\c++\Modul1_Lesson5\Modul1_Lesson5\Modul1_Lesson5.vcxproj" (Build target(s)).
-
-Build succeeded.
-
-Time Elapsed 00:00:01.29
+﻿  Skipping... (no relevant changes detected)
+  game.cpp
